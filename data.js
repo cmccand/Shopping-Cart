@@ -1,4 +1,4 @@
-var product [
+var product = [
 
 {
 name: 'HTML',
@@ -16,8 +16,8 @@ image: 'http://pubpages.unh.edu/~mha43/html4.01.jpg'
 
 {
   name: 'Sass',
-  description: 'Everything you need to know about Sass.'
-  price: '$1000'
+  description: 'Everything you need to know about Sass.',
+  price: '$1000',
   image: 'http://pubpages.unh.edu/~mha43/html4.01.jpg'
 },
 

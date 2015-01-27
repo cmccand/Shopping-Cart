@@ -2,6 +2,12 @@ body {
   margin: 0;
   padding: 0; }
 
+section {
+  width: 70%; }
+
+aside {
+  width: 28%; }
+
 article {
   padding: 20px;
   display: inline-block;
