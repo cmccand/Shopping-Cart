@@ -2,6 +2,7 @@ var cartPage = {
   init:function() {
     cartPage.initStyling();
     cartPage.initEvents();
+    cartPage.allProducts(product);
   },
 
   initStyling: function(){
